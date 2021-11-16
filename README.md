@@ -1,6 +1,6 @@
 # Curso de flutter 2021 - Escolar Manager
 
-Ministrado por [**Rodolfo Fagundes Ferreira**](www.linkedin.com/in/rodolfo-fagundes).
+Ministrado por [**Rodolfo Fagundes Ferreira**](https://www.linkedin.com/in/rodolfo-fagundes).
 
 ## Persistência com Hive
 
