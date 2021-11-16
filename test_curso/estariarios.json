@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Daniel",
+        "horasExtras": 8,
+        "notaCurso": 6,
+        "qtdeAtividadesEntreges": 7
+    },
+    {
+        "nome": "Felipe",
+        "horasExtras": 0,
+        "notaCurso": 7,
+        "qtdeAtividadesEntreges": 8
+    },
+    {
+        "nome": "Luiza",
+        "horasExtras": 10,
+        "notaCurso": 8,
+        "qtdeAtividadesEntreges": 9
+    }
+]
